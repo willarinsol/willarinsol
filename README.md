@@ -1,5 +1,13 @@
-## Hi there 👋
 
+
+Hello!
+My name is Will Arinsol, known here as stimms1
+I am a first year college student at Lyceum of Alabang Inc.
+
+Making this to document my work and to encourage me to learn more for my future career.
+Currently learning Python and Web Development
+Java, UnityC# and SQL are where i'm good and i know most at.
+Get in touch with me at: willarinsol18@gmail.com
 <!--
 **stimms1/stimms1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
